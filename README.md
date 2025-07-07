@@ -13,6 +13,7 @@ I’m a data enthusiast with a passion for solving real-world problems through d
 - 💻 **Python** – NumPy, Pandas, Matplotlib
 - 📈 **SQL**
 - 📋 **Microsoft Excel** – Data cleaning, visualization, and dashboards
+- 📊 **Power BI** – Interactive reports and dashboards
 
 I'm currently looking for **graduate roles in the UK as a Data Analyst**, where I can contribute with my analytical and problem-solving skills while continuously growing in the field of data.
 
@@ -28,10 +29,8 @@ I'm currently looking for **graduate roles in the UK as a Data Analyst**, where 
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) *(Replace with your link)*
-- 📧 Email: your.email@example.com *(Replace with your email)*
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajagutha/)
+- 📧 Email: rajagutha98@gmail.com
 ---
 
-> "Data is a tool for making better decisions — and I’m here to help make sense of it."
 
