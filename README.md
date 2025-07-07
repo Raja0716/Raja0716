@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raja Gutha
+# Hey Everyone! I'm [Raja Gutha](https://github.com/Raja0716) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 🎓 I'm currently pursuing a **Master’s in Project Management** at the **University of Salford, UK**.  
 🎓 I hold a **B.Tech in Civil Engineering** from **Bapatla Engineering College** (Class of 2019).
